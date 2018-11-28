@@ -1,0 +1,32 @@
+cd ~                          # change directories to your home directory
+mkdir version-control         # make version-control directory
+cd version-control            # go to version-control directory
+mkdir reflections             # create reflections directory
+cd reflections                # go to reflections directory
+subl lesson_1_reflections.txt # launch sublime with file called lesson_1_reflections.txt (you can replace subl with another editor here if you prefer a different one)\
+pwd # print working directory - shows what directory you are in
+ls  # list the files in this directory
+
+git diff #Compare two commits, printing each line that is present in one commit but not the other. Or comparing working deirectiory with staging area
+Q #out of git log
+git checkout # The command Caroline types to checkout the "Revert controls" commit
+git log# Show the commits made in this repository, starting with the most recent.
+git clone # Make a copy of an entire Git repository, including the history, onto your own computer.
+scp # For copying a directory it is possible to copy a directory from one computer to another 
+ls -a # way to see hidden files 
+git init #will initialize and create new git 
+git status # will show what files have changed since last commit
+git add # will add your changes to the staging area
+git commit
+git commit -m # will add commit to your repo
+git diff --staged # show changes in staging area
+git reset --hard # discards any changes in staging area
+git branch # show on what branch you are
+git branch easy-mode # cteate new branch called easy-mode
+git checkout easy-mode # swith ti new branch easy-mode
+git log --graph --oneline branch1 branch2 # types to see the visual representation of the commit history 
+git merge branch2 branch3 # is going to merge branches
+git remote # will show remote repositories
+git remote add origin +Github URL 
+git remote -v #???
+git push origin master # will push changes to remote repo
