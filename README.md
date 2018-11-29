@@ -1,3 +1,3 @@
-# kottans_frontend
+# Kottans_Frontend
 
-
+## Git Collaboration
