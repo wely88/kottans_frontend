@@ -11,4 +11,4 @@
 
 ## Responsive Web Design
 ![responsive](https://github.com/wely88/kottans_frontend/blob/master/responsive-web-design/responsive_web_design_1.png)
-![responsive](https://github.com/wely88/kottans_frontend/blob/master/responsive-web-design/responsive_web_design_1.png)
+![responsive](https://github.com/wely88/kottans_frontend/blob/master/responsive-web-design/responsive_web_design_2.png)
