@@ -17,7 +17,7 @@ ls -a # way to see hidden files
 git init #will initialize and create new git 
 git status # will show what files have changed since last commit
 git add # will add your changes to the staging area
-git commit
+git commit # will add commit using core editor
 git commit -m # will add commit to your repo
 git diff --staged # show changes in staging area
 git reset --hard # discards any changes in staging area
