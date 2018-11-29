@@ -30,4 +30,5 @@ git remote # will show remote repositories
 git remote add origin +Github URL 
 git remote -v #???
 git push origin master # will push changes to remote repo
-git pull # will pull changes from remote repo to local repo
+git pull # will pull changes from remote repo to local repo 
+git fetch # download objects and refs from another repository
