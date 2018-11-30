@@ -5,6 +5,9 @@
 ![git-github](https://github.com/wely88/kottans_frontend/blob/master/task_git_collaboration/git-for-team-collaboration_1.png)
 ![git-github](https://github.com/wely88/kottans_frontend/blob/master/task_git_collaboration/git-for-team-collaboration_2.png)
 
+## Linux CLI, and HTTP
+![git-github](https://github.com/wely88/kottans_frontend/blob/master/task_linux_cli/linux_cli_1.png)
+
 ## Intro to HTML and CSS
 ![markup](https://github.com/wely88/kottans_frontend/blob/master/task_html_css_intro/html_css_1.png)
 ![markup](https://github.com/wely88/kottans_frontend/blob/master/task_html_css_intro/html_css_2.png)
