@@ -15,3 +15,7 @@
 ## Responsive Web Design
 ![responsive](https://github.com/wely88/kottans_frontend/blob/master/task_responsive_web_design/responsive_web_design_1.png)
 ![responsive](https://github.com/wely88/kottans_frontend/blob/master/task_responsive_web_design/responsive_web_design_2.png)
+
+## JS Basics
+![task_js_basics](https://github.com/wely88/kottans_frontend/blob/master/task_js_basics/js_basics_1.png)
+![task_js_basics](https://github.com/wely88/kottans_frontend/blob/master/task_js_basics/js_basics_2.png)
