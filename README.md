@@ -19,3 +19,7 @@
 ## JS Basics
 ![task_js_basics](https://github.com/wely88/kottans_frontend/blob/master/task_js_basics/js_basics_1.png)
 ![task_js_basics](https://github.com/wely88/kottans_frontend/blob/master/task_js_basics/js_basics_2.jpg)
+
+## DOM
+![task_js_dom](https://github.com/wely88/kottans_frontend/blob/master/task_js_dom/task_js_dom_1.jpg)
+![task_js_dom](https://github.com/wely88/kottans_frontend/blob/master/task_js_dom/task_js_dom_2.jpg)
